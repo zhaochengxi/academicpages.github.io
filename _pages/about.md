@@ -22,14 +22,13 @@ Zhao C, Zhang Y, Si T. Slip-enhanced Rayleigh–Plateau instability of a liquid 
 
 Zhao C, Zhang Z, Si T. Fluctuation-driven instability of nanoscale liquid films on chemically heterogeneous substrates. Physics of Fluids, 2023, 35(7): 072016. (https://doi.org/10.1063/5.0159155)
 
-Liu J#, Zhao C#, Lockerby D A#, et al. Thermal capillary waves on bounded nanoscale thin films. Physical Review E, 2023, 107(1): 015105. (https://doi.org/10.1103/PhysRevE.107.015105)
+Liu J#, Zhao C#, Lockerby D A#, Sprittles J E#. Thermal capillary waves on bounded nanoscale thin films. Physical Review E, 2023, 107(1): 015105. (https://doi.org/10.1103/PhysRevE.107.015105)
 
-Zhao C, Liu J, Lockerby D A, et al. Fluctuation-driven dynamics in nanoscale thin-film flows: physical insights from numerical investigations. Physical Review Fluids, 2022, 7(2): 024203.
-(https://doi.org/10.1103/PhysRevFluids.7.024203)
+Zhao C, Liu J, Lockerby D A, Sprittles J E. Fluctuation-driven dynamics in nanoscale thin-film flows: physical insights from numerical investigations. Physical Review Fluids, 2022, 7(2): 024203. (https://doi.org/10.1103/PhysRevFluids.7.024203)
 
-Zhao C, Zhao J, Si T, et al. Influence of thermal fluctuations on nanoscale free-surface flows: A many-body dissipative particle dynamics study[J]. Physics of Fluids, 2021, 33(11): 112004. (https://doi.org/10.1063/5.0066982)
+Zhao C, Zhao J, Si T, Shuo C. Influence of thermal fluctuations on nanoscale free-surface flows: A many-body dissipative particle dynamics study[J]. Physics of Fluids, 2021, 33(11): 112004. (https://doi.org/10.1063/5.0066982)
 
-Dallaston M C, Zhao C, Sprittles J E, et al. Stability of similarity solutions of viscous thread pinch-off[J]. Physical Review Fluids, 2021, 6(10): 104004.
+Dallaston M C, Zhao C, Sprittles J E, Egger J. Stability of similarity solutions of viscous thread pinch-off[J]. Physical Review Fluids, 2021, 6(10): 104004.
 (https://doi.org/10.1103/PhysRevFluids.6.104004)
 
 Zhao C, Lockerby D A, Sprittles J E. Dynamics of liquid nanothreads: Fluctuation-driven instability and rupture[J]. Physical Review Fluids, 2020, 5(4): 044201.
