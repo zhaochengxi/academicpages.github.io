@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr."
+title                    : "Dr. Chengxi Zhao"
 title_separator          : "-"
-name                     : &name "Chengxi Zhao (赵承熙)"
+name                     : &name "赵承熙"
 description              : &description "Research Assistant Professor"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
