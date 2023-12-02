@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Chengxi Zhao (赵承熙)"
+  name             : 
   avatar           : "profile.png"
   bio              : "Research Assistant Professor"
   location         : "No. 443, Huangshan Road, Hefei, PRC"
-  employer         : "University of Science of Technology of China （中国科学技术大学）"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=X63OI7IAAAAJ&hl=zh-CN"
   email            :
