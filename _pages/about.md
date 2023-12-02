@@ -18,29 +18,25 @@ Research Interests
 
 Selected Publications
 ======
-Zhao C, Zhang Z, Si T. Fluctuation-driven instability of nanoscale liquid films on chemically heterogeneous substrates. Physics of Fluids, 2023, 35(7): 072016.
-https://doi.org/10.1063/5.0159155
+Zhao C, Zhang Y, Si T. Slip-enhanced Rayleigh–Plateau instability of a liquid film on a fibre. Journal of Fluid Mechanics, 2023, 954: A46. (https://doi.org/10.1017/jfm.2022.1055)
 
-Liu J#, Zhao C#, Lockerby D A#, et al. Thermal capillary waves on bounded nanoscale thin films[J]. Physical Review E, 2023, 107(1): 015105.
-https://doi.org/10.1103/PhysRevE.107.015105
+Zhao C, Zhang Z, Si T. Fluctuation-driven instability of nanoscale liquid films on chemically heterogeneous substrates. Physics of Fluids, 2023, 35(7): 072016. (https://doi.org/10.1063/5.0159155)
 
-Zhao C, Zhang Y, Si T. Slip-enhanced Rayleigh–Plateau instability of a liquid film on a fibre[J]. Journal of Fluid Mechanics, 2023, 954: A46.
-https://doi.org/10.1017/jfm.2022.1055
+Liu J#, Zhao C#, Lockerby D A#, et al. Thermal capillary waves on bounded nanoscale thin films. Physical Review E, 2023, 107(1): 015105. (https://doi.org/10.1103/PhysRevE.107.015105)
 
-Zhao C, Liu J, Lockerby D A, et al. Fluctuation-driven dynamics in nanoscale thin-film flows: physical insights from numerical investigations[J]. Physical Review Fluids, 2022, 7(2): 024203.
-https://doi.org/10.1103/PhysRevFluids.7.024203
+Zhao C, Liu J, Lockerby D A, et al. Fluctuation-driven dynamics in nanoscale thin-film flows: physical insights from numerical investigations. Physical Review Fluids, 2022, 7(2): 024203.
+(https://doi.org/10.1103/PhysRevFluids.7.024203)
 
-Zhao C, Zhao J, Si T, et al. Influence of thermal fluctuations on nanoscale free-surface flows: A many-body dissipative particle dynamics study[J]. Physics of Fluids, 2021, 33(11): 112004.
-https://doi.org/10.1063/5.0066982
+Zhao C, Zhao J, Si T, et al. Influence of thermal fluctuations on nanoscale free-surface flows: A many-body dissipative particle dynamics study[J]. Physics of Fluids, 2021, 33(11): 112004. (https://doi.org/10.1063/5.0066982)
 
 Dallaston M C, Zhao C, Sprittles J E, et al. Stability of similarity solutions of viscous thread pinch-off[J]. Physical Review Fluids, 2021, 6(10): 104004.
-https://doi.org/10.1103/PhysRevFluids.6.104004
+(https://doi.org/10.1103/PhysRevFluids.6.104004)
 
 Zhao C, Lockerby D A, Sprittles J E. Dynamics of liquid nanothreads: Fluctuation-driven instability and rupture[J]. Physical Review Fluids, 2020, 5(4): 044201.
-https://doi.org/10.1103/PhysRevFluids.5.044201
+(https://doi.org/10.1103/PhysRevFluids.5.044201)
 
 Zhao C, Sprittles J E, Lockerby D A. Revisiting the Rayleigh–Plateau instability for the nanoscale[J]. Journal of Fluid Mechanics, 2019, 861: R3.
-https://doi.org/10.1017/jfm.2018.950
+(https://doi.org/10.1017/jfm.2018.950)
 
 Grants
 ======
