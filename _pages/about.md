@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "赵承熙 / Zhao Chengxi "
+title: "赵承熙 / Chengxi Zhao"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
